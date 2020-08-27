@@ -1,4 +1,4 @@
-# The IDEA project
+# The IDEA project website repository
 
-website under construction, available soon
+see https://marcoalopez.github.io/IDEAproject/
 
