@@ -1,10 +1,10 @@
-![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/header.webp)
+![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.webp)
 
 Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2020/08/27
 
 ## The IDEA project at a glance
 
-_The IDEA project stands for **I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials. This is a research project attached to a [Marie Skłodowska-Curie “Clarín”-COFUND Action](http://www.clarinasturias.es/?lang=en) postdoctoral fellowship starting in 2018 and funded by different sources including European and French research projects. The main goal of the project is to rationalize the physical processes that occur at the microscale during recrystallization caused by crystal-plastic deformation and heating. Specifically, we are interested in how recrystallization (dynamic or static) affect crystallographic preferred orientation (CPO) and different aspects of rock behaviour such as strain hardening/weakening or strain localization. Our approach involves tracking the evolution of microstructure, CPO, and strain field during recrystallization using in situ observations. We use two main techniques: electron backscatter diffraction (EBSD) and high spatial resolution digital image correlation (HR-DIC). The core team is based at Géosciences Montpellier (Université de Montpellier - CNRS) in France and is formed by Andrea Tommasi (supervisor), Marco A. Lopez-Sanchez (the recipient of the Clarín-COFUND fellowship), and Fabrice Barou (Geosciences Montpellier). We also collaborate with Maurine Montagnat (IGE - Grenoble) and Romain Quey (Mines Saint-Etienne)._
+_The IDEA project stands for **I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials. This is a research project attached to a [Marie Skłodowska-Curie “Clarín”-COFUND Action](http://www.clarinasturias.es/?lang=en) postdoctoral fellowship starting in 2018 and funded by different sources including European and French research projects. The main goal of the project is to rationalize the physical processes that occur at the microscale during recrystallization caused by crystal-plastic deformation and heating. Specifically, we are interested in how recrystallization (dynamic or static) affect crystallographic preferred orientation (CPO) and different aspects of rock behaviour such as strain hardening/weakening or strain localization. Our approach involves tracking the evolution of microstructure, CPO, and strain field during recrystallization using in situ observations. We use two main techniques: electron backscatter diffraction (EBSD) and high spatial resolution digital image correlation (HR-DIC). The core team is based at Géosciences Montpellier (Université de Montpellier - CNRS) in France and is formed by [Andrea Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) (supervisor), [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) (the recipient of the Clarín-COFUND fellowship), and Fabrice Barou (Geosciences Montpellier). We also collaborate with [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/) (IGE - Grenoble) and Romain Quey (Mines Saint-Etienne)._
 
 [TOC]
 
@@ -80,11 +80,9 @@ Data used for the https://data.mendeley.com/datasets/ttvh2m9r9s/draft?a=f35092a2
 
 ## 4. Outreach and workshops
 
-Workshop in
+Workshop “**EBSD data treatment with MTEX**” at _GRD Recrystallization and Grain Growth workshop 2020_ at [Les Houches, School of Physics, France](https://www.houches-school-physics.com/program/program-2020/workshop-on-recrystallization-and-grain-growth-592227.kjsp?RH=1570781112691)
 
 
-
-## 5. People
 
 
 
