@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.webp)
 
-Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2020/08/27
+Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2020/08/29
 
 ## The IDEA project at a glance
 
-_The IDEA project stands for **I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials. This is a research project attached to a [Marie Skłodowska-Curie “Clarín”-COFUND Action](http://www.clarinasturias.es/?lang=en) postdoctoral fellowship starting in 2018 and funded by different sources including European and French research projects. The main goal of the project is to rationalize the physical processes that occur at the microscale during recrystallization caused by crystal-plastic deformation and heating. Specifically, we are interested in how recrystallization (dynamic or static) affect crystallographic preferred orientation (CPO) and different aspects of rock behaviour such as strain hardening/weakening or strain localization. Our approach involves tracking the evolution of microstructure, CPO, and strain field during recrystallization using in situ observations. We use two main techniques: electron backscatter diffraction (EBSD) and high spatial resolution digital image correlation (HR-DIC). The core team is based at Géosciences Montpellier (Université de Montpellier - CNRS) in France and is formed by [Andrea Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) (supervisor), [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) (the recipient of the Clarín-COFUND fellowship), and Fabrice Barou (Geosciences Montpellier). We also collaborate with [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/) (IGE - Grenoble) and Romain Quey (Mines Saint-Etienne)._
+_The IDEA project stands for **I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials. This is a research project attached to a [Marie Skłodowska-Curie “Clarín”-COFUND Action](http://www.clarinasturias.es/?lang=en) postdoctoral fellowship starting in 2018 and funded by different sources including European and French research projects. The main goal of the project is to rationalize the physical processes that occur at the microscale during recrystallization caused by crystal-plastic deformation and heating. Specifically, we are interested in how recrystallization (dynamic and static) affect the properties of polycrystalline materials and behaviour such as strain hardening/weakening or strain localization. Our approach involves tracking the evolution of microstructure, CPO, and strain field during recrystallization using in situ observations. We use two main techniques: electron backscatter diffraction (EBSD) and digital image correlation (DIC). The core team is based at Géosciences Montpellier (Université de Montpellier - CNRS) in France and is formed by [Andrea Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) (supervisor), [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) (the recipient of the Clarín-COFUND fellowship), and Fabrice Barou (Geosciences Montpellier). We also collaborate with [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/) (IGE - Grenoble) and Romain Quey (Mines Saint-Etienne)._
 
 [TOC]
 
@@ -28,9 +28,17 @@ In the IDEA project, we are particularly interested in the study of **recrystall
 
 ### 2.1 Equipment
 
-The _in situ_ experiments are carried out using the [CamScan X500FE CrystalProbe EBSD-SEM](http://www.gm.univ-montp2.fr/spip.php?article648&lang=en) at Géosciences Montpellier. This is an SEM-EBSD system specifically designed to host _in situ_ experiments....TODO Besides, we use an in-house ceramic stage with three thermocouples attached for the annealing experiments and a tensile deformation stage [MT1000](https://newtec.fr/en/mt-1000/) provided by NewTec Scientific for the deformation experiments.
+The _in situ_ experiments are carried out using the [CamScan X500FE CrystalProbe EBSD-SEM](http://www.gm.univ-montp2.fr/spip.php?article648&lang=en) at Géosciences Montpellier. This is an SEM-EBSD system specifically designed to host _in situ_ experiments. Besides, we use an in-house ceramic stage with three thermocouples attached for the annealing experiments and a tensile deformation stage [MT1000](https://newtec.fr/en/mt-1000/) provided by NewTec Scientific for the deformation experiments.
 
 Image![]()
+
+Image here ![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/AZ31_heating_stage.jpg?raw=true)
+
+_Figure Caption. TODO_
+
+![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/def_stage.jpg?raw=true)
+
+_Figure Caption. TODO_
 
 ### 2.2 Materials
 
@@ -46,13 +54,15 @@ We use magnesium alloy AZ31 aggregates for the _in situ_ EBSD experiments as we 
 
 Furthermore, magnesium alloys have attracted increasing attention in the last two decades due to their low mass density compared to other conventional metallic materials and good mechanical properties, making them candidates for the next generation of light-weight metallic materials.
 
-Image here ![]()
+
 
 #### Ice (Ih)
 
 Similar to magnesium, (Ih) ice is an hexagonal crystal with strong anisotropic properties, easy basal slip, and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of Ih ice is of great interest for the modelling of the flow of glaciers and polar ice sheets as well as for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10 mm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) and we generate a random pattern on the sample surface to measure plastic strain during deformation using digital image correlation techniques. Sample were deformed in compression using an in house dead-weight rig  at -7 ºC, room pressure, and under constant uniaxial stress of 0.5 MPa.
 
-Image here ![]()
+Image here ![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)
+
+_Figure caption. TODO_
 
 Our main goal with the ice experiments is to understand how strain localise (and delocalise) at grain scale  and how this phenomena is affected by local grain interactions. This issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics
 
@@ -66,7 +76,8 @@ Image here ![]()
 
 ## 3. Publications
 
-- Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* 165:110382 https://doi.org/10.1016/j.matchar.2020.110382 // [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf) 
+- Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **165**:110382 https://doi.org/10.1016/j.matchar.2020.110382 // [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf) 
+- Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)  
 
 
 
@@ -84,7 +95,7 @@ Workshop “**EBSD data treatment with MTEX**” at _GRD Recrystallization and G
 
 
 
-
+![footer](https://github.com/marcoalopez/IDEAproject/blob/master/figures/footer.png?raw=true)
 
 ---
 
@@ -93,4 +104,3 @@ Copyright © 2018-2020 Marco A. Lopez-Sanchez
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
 _Hosted on GitHub Pages — Website created with [Typora](https://typora.io/)_  
-
