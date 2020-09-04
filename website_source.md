@@ -15,7 +15,7 @@ Understanding how plate tectonics works remains a cornerstone of modern geology.
 Rationalize the mechanical response to forces of deep rocks (i.e. in the plastic field) is a challenge for different reasons:
 
 - Earth scientists do not have direct access (i.e. by drilling) to rocks deforming in the plastic field, normally involving rocks deeper than 10-15 km.
-- Rock deformation experiments at high _P_ and _T_ are difficult to perform and always occurs at strain rates several orders of magnitude faster (<<10^-7^ *vs.* 10^-13^-10^-16^ s^-1^) and thus at higher stress levels than those operating in the deep Earth. This means that the laboratory-based flow laws have to be scaled with no guarantee that they are the same in nature. It is therefore necessary to know the basic principles of deformation in order to validate them.
+- Rock deformation experiments at high _P_ and _T_ are challenging and always occur at strain rates several orders of magnitude faster (<<10^-7^ s^-1^) than in nature (10^-13^-10^-16^ s^-1^), which means at higher stresses than those operating in the deep Earth. Due to this, the flow laws estimated in the laboratory have to be scaled up by several orders of magnitude with no guarantee that the parameters obtainedare correct. It is therefore necessary to understand the basic principles behind deformation in order to validate them.
 - Rock behaviour during ductile deformation depends on several intrinsic (material) and extrinsic (environmental) factors, including temperature, water fugacity, crystallographic preferred orientation (CPO), dislocation content, or grain size. These variables commonly vary during the processes of deformation and heating that occur on Earth and show a degree of interdependence between them, which makes it difficult to separate their effects.
 
 In the IDEA project, we are particularly interested in the study of **recrystallization (RX) processes**, either during the application of differential stresses (dynamic RX) or at hydrostatic conditions (static RX), as both processes are common in plastic shear zones. Recrystallization processes affect three key parameters controlling rock strength: dislocation content, grain boundary area per unit volume (by locally decreasing or increasing the grain size), and CPO. The study of recrystallization is also a subject of intense research across different scientific disciplines due to its broad interest. For example, recrystallization processes are of great industrial importance in the processing of metallic alloys as they control the mechanical properties and behaviour of a material.
@@ -24,19 +24,12 @@ In the IDEA project, we are particularly interested in the study of **recrystall
 
 ## 2. Methods & Materials
 
-
-
-### 2.1 Equipment
+### 2.1 Equipment used
 
 The _in situ_ experiments are carried out using the [CamScan X500FE CrystalProbe EBSD-SEM](http://www.gm.univ-montp2.fr/spip.php?article648&lang=en) at Géosciences Montpellier. This is an SEM-EBSD system specifically designed to host _in situ_ experiments. Besides, we use an in-house ceramic stage with three thermocouples attached for the annealing experiments and a tensile deformation stage [MT1000](https://newtec.fr/en/mt-1000/) provided by NewTec Scientific for the deformation experiments.
 
-<img src="https://github.com/marcoalopez/IDEAproject/blob/master/figures/EBSD.jpg?raw=true" alt="SEM-EBSD" style="zoom:50%;" />
-
-![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/AZ31_heating_stage.jpg?raw=true)
-_Figure Caption. TODO_
-
-![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/def_stage.jpg?raw=true)
-_Figure Caption. TODO_
+![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/GM_insitu_facilities.jpg?raw=true)
+_Figure 1. At left the CamScan X500FE CrystalProbe, an electron back scattered diffraction (EBSD) system specifically designed for the measurement of crystal orientation while conducting in situ experiments. Note that the column of the microscope is tilted 70 degrees to keep the samples horizontal. Upper right, this is the in house ceramic stage (made by Fabrice Barou) used in the annealing experiments. This image was taken during a heating-cooling test with a sample of magnesium alloy AZ31. Note the three thermocouples attached to different parts of the device. Lower right, the deformation stage MT1000 with a sample in place._
 
 ### 2.2 Materials
 
@@ -52,7 +45,7 @@ We use magnesium alloy AZ31 aggregates for the _in situ_ EBSD experiments as we 
 
 Furthermore, magnesium alloys have attracted increasing attention in the last two decades due to their low mass density compared to other conventional metallic materials and good mechanical properties, making them candidates for the next generation of light-weight metallic materials.
 
-
+_TODO: add figure!_
 
 #### Ice (Ih)
 
@@ -61,7 +54,7 @@ Similar to magnesium, (Ih) ice is an hexagonal crystal with strong anisotropic p
 Our main goal with the ice experiments is to understand how strain localise (and delocalise) at grain scale  and how this phenomena is affected by local grain interactions. This issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
 ![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)
-_Figure X. **Left**: set-up for the uniaxial compression creep tests on ice. In the upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. In the lower left, a closer view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Middle**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries. **Left**: That's me (Marco) in the cold room making an ice sample in the milling machine._
+_Figure X. **Left**: set-up for the uniaxial compression creep tests on ice. In the upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. In the lower left, a closer view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Middle**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries. **Left**: That's me in the cold room making an ice sample in the milling machine._
 
 #### Olivine
 
@@ -77,7 +70,7 @@ Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recry
 
 Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. _Journal of Structural Geology_ **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)  
 
-**To come**: _Ice experiments, recrystallization experiments in olivine, dynamic recrystallization and strain localization experiments in magnesium_
+**Yet to come**: _DIC experiments on ice, dynamic recrystallization and strain localization experiments in olivine and magnesium_
 
 ### 3.1 Codes released
 
