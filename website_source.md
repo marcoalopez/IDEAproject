@@ -26,10 +26,10 @@ In the IDEA project, we are particularly interested in the study of **recrystall
 
 ### 2.1 Equipment used
 
-The _in situ_ experiments are carried out using the [CamScan X500FE CrystalProbe EBSD-SEM](http://www.gm.univ-montp2.fr/spip.php?article648&lang=en) at Géosciences Montpellier. This is an SEM-EBSD system specifically designed to host _in situ_ experiments. Besides, we use an in-house ceramic stage with three thermocouples attached for the annealing experiments and a tensile deformation stage [MT1000](https://newtec.fr/en/mt-1000/) provided by NewTec Scientific for the deformation experiments.
+The _in situ_ experiments are performed using the [CamScan X500FE CrystalProbe EBSD-SEM](http://www.gm.univ-montp2.fr/spip.php?article648&lang=en) at Géosciences Montpellier. This is an SEM-EBSD system specifically designed to host _in situ_ experiments. Besides, we use an in-house ceramic stage for the annealing experiments and a [MT1000](https://newtec.fr/en/mt-1000/) tensile deformation stage provided by NewTec Scientific for the deformation experiments.
 
 ![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/GM_insitu_facilities.jpg?raw=true)
-_Figure 1. At left the CamScan X500FE CrystalProbe, an electron back scattered diffraction (EBSD) system specifically designed for the measurement of crystal orientation while conducting in situ experiments. Note that the column of the microscope is tilted 70 degrees to keep the samples horizontal. Upper right, this is the in house ceramic stage (made by Fabrice Barou) used in the annealing experiments. This image was taken during a heating-cooling test with a sample of magnesium alloy AZ31. Note the three thermocouples attached to different parts of the device. Lower right, the deformation stage MT1000 with a sample in place._
+_Figure 1. At left the CamScan X500FE CrystalProbe, an electron back scattered diffraction (EBSD) system specifically designed for the measurement of crystal orientation while conducting in situ experiments. Note that the column of the microscope is tilted 70 degrees to keep the samples horizontal. Upper right, this is the in house ceramic stage (made by Fabrice Barou) used in the annealing experiments. This image was taken during a heating-cooling test with a sample of magnesium alloy AZ31. Note the thermocouples attached to different parts of the device. Lower right, the MT1000 deformation stage with a sample in place._
 
 ### 2.2 Materials
 
@@ -54,7 +54,7 @@ Similar to magnesium, (Ih) ice is an hexagonal crystal with strong anisotropic p
 Our main goal with the ice experiments is to understand how strain localise (and delocalise) at grain scale  and how this phenomena is affected by local grain interactions. This issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
 ![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)
-_Figure X. **Left**: set-up for the uniaxial compression creep tests on ice. In the upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. In the lower left, a closer view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Middle**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries. **Left**: That's me in the cold room making an ice sample in the milling machine._
+_Figure X. **Left**: set-up for the uniaxial compression creep tests on ice. In the upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. In the lower left, a closer view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the non-uniform plastic deformation. **Left**: That's me in the cold room making an ice sample with the milling machine._
 
 #### Olivine
 
