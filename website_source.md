@@ -48,7 +48,7 @@ We use commercial-purity AZ31 magnesium alloy (~96% Mg, ~3% Al, ~1% Zn) for the 
 Furthermore, magnesium alloys have attracted increasing attention in the last two decades due to their low mass density compared to other conventional metallic materials and good mechanical properties, making them candidates for the next generation of light-weight metallic materials.
 
 ![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/AZ31_example.jpg?raw=true)
-_Figure 2. Images of AZ31 magnesium alloy samples used in the IDEA project. Upper left, AZ31 samples of 10x10x8 mm deformed in a channel-die compression (i.e. plane strain) device before the annealing procedure. Upper right, dog-bone-type AZ31 specimens used for the tensile tests. Lower, crystallographic preferred orientation (left) and microstructure (right) of the as-received magnesium alloy. Note the intense basal texture with a c-axis maxima above 8 multiples of a uniform distribution. The apparent mean grain size is ~9 μm (mode ~5 μm) and most  grains had an internal misorientation spread lower than 1%._
+_Figure 2. AZ31 magnesium alloy samples used in the IDEA project. Upper left, AZ31 specimens of 10x10x8 mm before and after deformation in a channel-die compression device (i.e. plane strain) used for the annealing experiments. Upper right, dog-bone AZ31 specimens used for the tensile tests. Lower, crystallographic preferred orientation (left) and microstructure (right) of the as-received magnesium alloy. Note the intense basal texture with the c-axis maximum above eight multiples of a uniform distribution. The apparent mean grain size is ~9 μm (mode ~5 μm), and most grains had an internal misorientation spread lower than 1%._
 
 #### Ice (l~h~)
 
