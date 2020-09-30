@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2020/09/25
+Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2020/09/30
 
 ## The IDEA project at a glance
 
@@ -39,7 +39,7 @@ We use three different materials: magnesium alloy AZ31, ice and olivine.
 
 #### Magnesium
 
-We use magnesium alloy AZ31 for the _in situ_ EBSD experiments as we need a material that easily undergoes dynamic or static recrystallization under low-_P_ and moderate _T_ conditions in an SEM-EBSD. Despite being an alloy, magnesium aggregates have been used as rock analogue [before](https://doi.org/10.1016/0031-9201(85)90131-1) since it shares several features with major rock-forming minerals due to its low crystal symmetry (hexagonal):
+We use commercial-purity AZ31 magnesium alloy (~96% Mg, ~3% Al, ~1% Zn) for the _in situ_ EBSD experiments as we need a material that easily undergoes dynamic or static recrystallization under low-_P_ and moderate _T_ conditions in an SEM-EBSD. Despite being an alloy, magnesium aggregates have been used as rock analogue [before](https://doi.org/10.1016/0031-9201(85)90131-1) since it shares several features with major rock-forming minerals due to its low crystal symmetry (hexagonal):
 
 - highly anisotropic properties
 - deform plastically by few slip systems (dominant basal slip system)
@@ -48,9 +48,9 @@ We use magnesium alloy AZ31 for the _in situ_ EBSD experiments as we need a mate
 Furthermore, magnesium alloys have attracted increasing attention in the last two decades due to their low mass density compared to other conventional metallic materials and good mechanical properties, making them candidates for the next generation of light-weight metallic materials.
 
 ![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/AZ31_example.jpg?raw=true)
-_Figure 2. TODO_
+_Figure 2. Images of AZ31 magnesium alloy samples used in the IDEA project. Upper left, AZ31 samples of 10x10x8 mm deformed in a channel-die compression (i.e. plane strain) device before the annealing procedure. Upper right, dog-bone-type AZ31 specimens used for the tensile tests. Lower, crystallographic preferred orientation (left) and microstructure (right) of the as-received magnesium alloy. Note the intense basal texture with a c-axis maxima above 8 multiples of a uniform distribution. The apparent mean grain size is ~9 μm (mode ~5 μm) and most  grains had an internal misorientation spread lower than 1%._
 
-#### Ice (Ih)
+#### Ice (l~h~)
 
 Similar to magnesium, [ice I~h~](https://en.wikipedia.org/wiki/Ice_Ih) is a hexagonal ice crystal with strong anisotropic properties, easy basal slip, and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice I~h~ is of great interest for the modelling of the flow of glaciers and polar ice sheets as well as for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10x10x1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) and we generate speckle random patterns on the sample surface to measure plastic strain during deformation using digital image correlation techniques. Samples were deformed in compression using an in house dead-weight rig  at -7 ºC (room pressure) under constant uniaxial stress of 0.5 MPa.
 
