@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2020/10/15_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2020/11/05_
 
 The IDEA project at a glance
 
@@ -33,9 +33,9 @@ _Figure 1. At left the CamScan X500FE CrystalProbe, an SEM-EBSD system specifica
 
 **Hardware**: For the digital image acquisition, we used a Nikon D850 digital camera with a 45.7 Mp CMOS sensor (size of 35.9 x 23.9 mm  with pixel area of 18.84 μm^2^) and a high-performance low-distortion Tamron SP Macro 1:1 lens (focal length of 180 mm, maximum aperture of f/3.5). Digital images were taken with the following setting: manually focused with an aperture of f/11 (~16.4 mm for a 180 mm) and an ISO sensitivity of 64 generating time exposures of ~1/10 s at the cold room light conditions; the light source used was two neon lamps with light diffusers (Fig. 3). Images were saved as Nikon RAW (.NEF) files with a 12-bit depth.
 
-**Image sequence**: We took 30 images before starting the deformation experiment and then every 10 minutes during the creep experiment, always with the lens vibration reduction mode enabled (see Figure 3 for general set-up).
+**Image sequence**: We took 30 images before starting the deformation experiment and then every 10 minutes with the lens vibration reduction mode enabled during the creep experiment (see Figure 3 for general set-up).
 
-**RAW image data treatment**: Images were converted from NEF (RAW) to TIFF using the dcraw v9.27 photo decoder and in-house Python codes using the ac hoc camera white balance and the Adaptive Homogeneity-Directed (AHD) interpolation for [demosaicing](https://en.wikipedia.org/wiki/Demosaicing) the images (which is the recommended interpolation mode for this camera model). After this, they were cropped (to the region of interest) and converted from RGB to 8-bit TIFF grayscale format using the Python Image Library (PIL).
+**RAW image data treatment**: Images were converted from NEF (RAW) to TIFF using the dcraw v9.27 photo decoder and in-house Python codes using the ac hoc camera white balance and the Adaptive Homogeneity-Directed (AHD) interpolation for [demosaicing](https://en.wikipedia.org/wiki/Demosaicing) the images (which is the recommended interpolation mode for this camera model). After this, they were cropped (to the region of interest) and converted from RGB to 8-bit TIFF grayscale format using the Python Image Library (Pillow).
 
 **Digital image correlation (DIC)**: We use the free and open-source [Digital Image Correlation Engine (DICe)](https://github.com/dicengine/dice) tool v2.0 beta15 from [Sandia National Laboratories](https://www.sandia.gov/) to compute the full-field displacements and strains from sequences of digital images.
 
@@ -83,7 +83,7 @@ Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recry
 
 Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. _Journal of Structural Geology_ **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042   
 
-> **Plain language summary:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides  guidelines for determining average grain sizes and confidence intervals in grain size studies. Using computer simulations and resampling techniques, we concluded that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [Grab the PDF here if you're interested!](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf).
+> **Plain language summary:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [Grab the PDF here if you're interested!](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf).
 
 **Yet to come**: _DIC experiments on ice, dynamic recrystallization and strain localization experiments in olivine and magnesium_
 
