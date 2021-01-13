@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2020/11/05_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/01/13_
 
 **The IDEA project at a glance**
 
@@ -85,7 +85,11 @@ Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robu
 
 > **Plain language summary:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [Grab the PDF here if you're interested!](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf).
 
-**Yet to come**: _DIC experiments on ice, dynamic recrystallization and strain localization experiments in olivine and magnesium_
+Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by high-spatial resolution electron backscatter diffraction. Submitted in 01/2021. [Grab the preprint here](https://eartharxiv.org/repository/view/1973/)
+
+Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. Submitted in 01/2021. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
+
+**Yet to come**: _DIC experiments on ice and magnesium_
 
 ### 3.1 Codes released
 
@@ -118,7 +122,7 @@ Workshop “**EBSD data treatment with MTEX**” at _GRD Recrystallization and G
 
 ---
 
-Copyright © 2018-2020 Marco A. Lopez-Sanchez  
+Copyright © 2018-2021 Marco A. Lopez-Sanchez  
 
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
