@@ -69,9 +69,9 @@ _Figure 3. **Left**: set-up for the uniaxial compression creep test on ice. Uppe
 
 #### Olivine
 
-Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus a key mineral to understand lithosphere deformation. In the IDEA project, we perform no olivine deformation experiments but we used all the EBSD data-treatment procedures developed within the frame of the project to reanalyse and reinterpret old datasets coming from unpublished olivine deformation experiments. More specifically, we used a dataset that comes from olivine-rich cylinders cored from naturally deformed and undeformed peridotites deformed in extension in a gas-medium apparatus at a confining pressure of 300 _MPa_ and *T* of 1200ºC. Our main goal is to understand how a common type of dynamic recrystallization, called [sub-grain rotation](https://en.wikipedia.org/wiki/Subgrain_rotation_recrystallization), develops in olivine and what effects it has on the CPO and the rheology of peridotites.
+Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus a key mineral to understand lithosphere deformation. In the IDEA project, we perform no olivine deformation experiments but we used all the EBSD data-treatment procedures developed within the frame of the project to reanalyse and reinterpret old datasets coming from unpublished olivine extension deformation experiments. More specifically, we used a dataset that comes from olivine-rich cylinders cored from naturally deformed and undeformed peridotites deformed in extension in a gas-medium apparatus at a confining pressure of 300 _MPa_ and *T* of 1200ºC. Our main goal is to understand how a common type of dynamic recrystallization, called [sub-grain rotation](https://en.wikipedia.org/wiki/Subgrain_rotation_recrystallization), develops in olivine and what effects it has on the CPO and the rheology of peridotites.
 
-![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/olivine.webp?raw=true)
+![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine.webp)
 _Figure 4. TODO..._
 
 
