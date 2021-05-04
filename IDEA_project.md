@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/04/26_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/04_
 
 **The IDEA project at a glance**
 
@@ -81,9 +81,9 @@ _Figure 3. AZ31 magnesium alloy samples used in the IDEA project. Upper left, AZ
 
 #### Ice $I_h$
 
-Similar to magnesium, [ice $I_h$](https://en.wikipedia.org/wiki/Ice_Ih) is a hexagonal crystal with strong anisotropic properties, easy basal slip, and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $I_h$ is of great interest for the modelling of the flow of glaciers and polar ice sheets but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10x10x1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
+Similar to magnesium, [ice $I_h$](https://en.wikipedia.org/wiki/Ice_Ih) is a hexagonal crystal with strong anisotropic properties, easy basal slip (non-basal slip is about 60 times larger), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $I_h$ is of great interest for the modelling of the flow of glaciers and polar ice sheets but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10x10x1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
 
-Our main goal with the ice creep experiments is to understand how strain localise (and/or delocalised) at grain scale, how this phenomenon is affected by local grain interactions, and how the concentration of local deformation relates to the development of dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
+Our main goal with the ice creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and how the concentration of local deformation relates to the development of dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
 
 
@@ -105,7 +105,7 @@ Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by
 
 > **Plain language summary**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with a lower dislocation content and smaller size than the host material. Here, we study a type of dynamic recrystallisation called subgrain rotation that is widespread in the _visco-plastic_ lithosphere. Moreover, we do so in a mineral, olivine, that makes up most of the lithosphere and the upper convective mantle on Earth. Understanding this is key for determining how rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales and where. We also record how the properties of these "subgrain boundaries" change once they become grain boundaries. Lastly, based on our dataset, we discard an earlier hypothesis on the causes of this sharp change and propose an alternative hypothesis to explain it.
 
-Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _submitted to Tectonophysics_. [Grab the preprint here](http://arxiv.org/abs/2101.03362)[](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)
+Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _submitted to Tectonophysics_. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
 
 Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. _Journal of Structural Geology_ **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042   
 
@@ -115,18 +115,20 @@ Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robu
 
 ### 4.1 Codes released
 
-Available soon (with links to repositories)
+[Jupyter4DICe](https://github.com/marcoalopez/Jupyter4DICe) :  A series of [Jupyter notebooks](https://jupyter.org/) written in Python for post-processing digital image correlation (DIC) data obtained with the free open-source digital image correlation tool [DICe](https://github.com/dicengine/dice). (not yet finished!)
+
+
 
 ### 4.2 Datasets & multimedia content
 
-#### Data
+#### Datasets
 
 EBSD datasets used in _Lopez-Sanchez et al. (2020) Materials Characterization 165:110382_
 https://data.mendeley.com/datasets/ttvh2m9r9s/draft?a=f35092a2-3a42-4b19-a14a-8c25879e6316
 
 #### Multimedia
 
-Available soon
+Videos of the experiments available soon
 
 #### Links to talks
 
