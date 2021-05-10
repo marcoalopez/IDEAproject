@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/04_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/10_
 
 **The IDEA project at a glance**
 
@@ -30,8 +30,7 @@ We conduct extension deformation experiments with in-situ monitoring using the [
 
 
 
-![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/GM_insitu_facilities.jpg?raw=true)
-_Figure 1. At left the CamScan X500FE CrystalProbe, an SEM-EBSD system specifically designed for the measurement of crystal orientation while conducting in situ experiments. Note that the column of the microscope is tilted 70 degrees to keep the samples horizontal. Upper right, this is the in house ceramic stage (made by Fabrice Barou) used in the annealing experiments. The image was taken during a heating-cooling test with a sample of magnesium alloy AZ31, note the thermocouples attached to different parts of the device. Lower right, the MT1000 deformation stage with a sample in place._
+![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/GM_insitu_facilities.jpg?raw=true)  _Figure 1. At left the CamScan X500FE CrystalProbe, an SEM-EBSD system specifically designed for the measurement of crystal orientation while conducting in situ experiments. Note that the column of the microscope is tilted 70 degrees to keep the samples horizontal. Upper right, this is the in house ceramic stage (made by Fabrice Barou) used in the annealing experiments. The image was taken during a heating-cooling test with a sample of magnesium alloy AZ31, note the thermocouples attached to different parts of the device. Lower right, the MT1000 deformation stage with a sample in place._
 
 
 
@@ -41,8 +40,7 @@ During the IDEA project, we carried out several creep experiments on ice using r
 
 
 
-![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)
-_Figure 2. **Left**: set-up for the uniaxial compression creep ice test. Upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. Lower left a close view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the heterogeneous plastic deformation. **Left**: That's me in the cold room making an ice sample with the milling machine._
+![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)  _Figure 2. **Left**: set-up for the uniaxial compression creep ice test. Upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. Lower left a close view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the heterogeneous plastic deformation. **Left**: That's me in the cold room making an ice sample with the milling machine._
 
 
 
@@ -74,8 +72,7 @@ Furthermore, magnesium alloys have attracted increasing attention in the last tw
 
 
 
-![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/AZ31_example.jpg?raw=true)
-_Figure 3. AZ31 magnesium alloy samples used in the IDEA project. Upper left, AZ31 specimens of 10x10x8 mm before and after deformation in a channel-die compression device (i.e. plane strain) used for the annealing experiments. Upper right, dog-bone specimens used for the tensile tests. Lower, crystal preferred orientation (left) and microstructure (right) of the as-received magnesium alloy used for the annealing experiments. Note the intense basal texture with the c-axis maximum above eight multiples of a uniform distribution. The apparent mean grain size is ~9 μm (mode ~5 μm), and most grains had an internal misorientation spread lower than 1%._
+![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/AZ31_example.jpg?raw=true)  _Figure 3. AZ31 magnesium alloy samples used in the IDEA project. Upper left, AZ31 specimens of 10x10x8 mm before and after deformation in a channel-die compression device (i.e. plane strain) used for the annealing experiments. Upper right, dog-bone specimens used for the tensile tests. Lower, crystal preferred orientation (left) and microstructure (right) of the as-received magnesium alloy used for the annealing experiments. Note the intense basal texture with the c-axis maximum above eight multiples of a uniform distribution. The apparent mean grain size is ~9 μm (mode ~5 μm), and most grains had an internal misorientation spread lower than 1%._
 
 
 
@@ -91,8 +88,7 @@ Our main goal with the ice creep experiments is to understand how strain localis
 
 Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus a key mineral to understand lithosphere deformation. In the IDEA project, we perform no olivine deformation experiments but we used all the EBSD data-treatment procedures developed within the frame of the project to reanalyse and reinterpret old datasets coming from unpublished olivine extension deformation experiments. More specifically, we used a dataset that comes from olivine-rich cylinders cored from natural peridotites deformed in extension in a gas-medium apparatus at a confining pressure of 300 _MPa_ and *T* of 1200ºC. Our main goal is to understand how a common type of dynamic recrystallization, called [sub-grain rotation](https://en.wikipedia.org/wiki/Subgrain_rotation_recrystallization), develops in olivine and what effects it has on the CPO and the rheology of peridotites.
 
-![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine.webp)
-_Figure 4. TODO..._
+![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine.webp)  _Figure 4. TODO..._
 
 
 ## 4. Publications
@@ -101,17 +97,17 @@ Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recry
 
 >**Plain language summary**: When heating a polycrystalline material, known as annealing, new grains nucleate and grow in a process called _static recrystallization_. This changes the microstructure and texture of the aggregate modifying its properties (e.g. its mechanical -strength- and seismic properties). Since this is a process that greatly modifies the properties of the material it affects and is very common in the Earth's lithosphere and in industry, its study is of wide interest. Despite this, it is not clear which factors other than temperature control the growth process the most, the usual suspects being the disappearance of grain boundary surfaces with unfavourable (high-energy) configurations or the energy stored in the form of dislocations (a crystallographic defect within a crystal structure induced during deformation) in the aggregate. To study this, we deformed several magnesium alloy specimens under different conditions to generate different microstructures and textures. Then, we led a series of _in situ_ EBSD heating experiments at the same temperature to demonstrate that the local accumulation of dislocations is an important factor controlling the growth of new grains in highly deformed polycrystalline materials. We established new microstructural proxies based on EBSD data to demonstrate this effect. Grab the PDF [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf) if you're interested!
 
-Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. Submitted to Tectonophysics_. [Grab the preprint here](https://eartharxiv.org/repository/view/1973/)
+Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics, in press_. [Grab the preprint here](https://eartharxiv.org/repository/view/1973/)
 
-> **Plain language summary**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with a lower dislocation content and smaller size than the host material. Here, we study a type of dynamic recrystallisation called subgrain rotation that is widespread in the _visco-plastic_ lithosphere. Moreover, we do so in a mineral, olivine, that makes up most of the lithosphere and the upper convective mantle on Earth. Understanding this is key for determining how rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales and where. We also record how the properties of these "subgrain boundaries" change once they become grain boundaries. Lastly, based on our dataset, we discard an earlier hypothesis on the causes of this sharp change and propose an alternative hypothesis to explain it.
+> **Plain language summary**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with low lattice distortion and smaller size than the host material modifying the rock properties. Here, we study a type of dynamic recrystallisation called subgrain rotation that is widespread in the lithosphere. Moreover, we do so in olivine, a mineral that makes up most of the lithosphere and the upper convective mantle. Understanding this is key for determining how lithospheric rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales. We also record a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. Based on our dataset, we discard an earlier hypothesis on the causes of this change and propose an alternative hypothesis to explain it.
 
-Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _submitted to Tectonophysics_. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
+Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _submitted to Tectonophysics_. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
 
 Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. _Journal of Structural Geology_ **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042   
 
 > **Plain language summary:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [Grab the PDF here if you're interested!](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf).
 
-**Yet to come**: _DIC experiments on ice and magnesium_
+**Yet to come**: _DIC deformation experiments on ice and magnesium alloys_
 
 ### 4.1 Codes released
 
