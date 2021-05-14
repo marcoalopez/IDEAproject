@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/10_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/14_
 
 **The IDEA project at a glance**
 
@@ -95,23 +95,23 @@ Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus 
 
 Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. _Materials Characterization_ **165**:110382 https://doi.org/10.1016/j.matchar.2020.110382
 
->**Plain language summary**: When heating a polycrystalline material, known as annealing, new grains nucleate and grow in a process called _static recrystallization_. This changes the microstructure and texture of the aggregate modifying its properties (e.g. its mechanical -strength- and seismic properties). Since this is a process that greatly modifies the properties of the material it affects and is very common in the Earth's lithosphere and industry, its study is of wide interest. Despite this, it is not clear which factors other than temperature control the growth process the most, the usual suspects being the disappearance of grain boundary surfaces with unfavourable (high-energy) configurations or the energy stored in the form of dislocations (a crystallographic defect within a crystal structure induced during deformation) in the aggregate. To study this, we deformed several magnesium alloy specimens under different conditions to generate different microstructures and textures. Then, we led a series of _in situ_ EBSD heating experiments at the same temperature to demonstrate that the local accumulation of dislocations is an important factor controlling the growth of new grains in highly deformed polycrystalline materials. We established new microstructural proxies based on EBSD data to demonstrate this effect. Grab the PDF [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf) if you're interested!
+>**Plain language summary**: When heating a polycrystalline material, known as annealing, new grains nucleate and grow in a process called _static recrystallization_. This changes the microstructure and texture of the aggregate modifying its properties (e.g. its mechanical -strength- and seismic properties). Since this is a process that greatly modifies the properties of the material it affects and is very common in the Earth's lithosphere and industry, its study is of wide interest. Despite this, it is not clear which factors other than temperature control the growth process the most, the usual suspects being the disappearance of grain boundary surfaces with unfavourable (high-energy) configurations or the energy stored in the form of dislocations (a crystallographic defect within a crystal structure induced during deformation) in the aggregate. To study this, we deformed several magnesium alloy specimens under different conditions to generate different microstructures and textures. Then, we led a series of _in situ_ EBSD heating experiments at the same temperature to demonstrate that the local accumulation of dislocations is an important factor controlling the growth of new grains in highly deformed polycrystalline materials. We established new microstructural proxies based on EBSD data to demonstrate this effect. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)
 
-Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics, in press_. [Grab the preprint here](https://eartharxiv.org/repository/view/1973/)
+Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics, in press_: 228916 https://doi.org/10.1016/j.tecto.2021.228916 
 
-> **Plain language summary**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with low lattice distortion and smaller size than the host material modifying the rock properties. Here, we study a type of dynamic recrystallisation called subgrain rotation that is widespread in the lithosphere. Moreover, we do so in olivine, a mineral that makes up most of the lithosphere and the upper convective mantle. Understanding this is key for determining how lithospheric rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales. We also record a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. Based on our dataset, we discard an earlier hypothesis on the causes of this change and propose an alternative hypothesis to explain it.
+> **Plain language summary**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with low lattice distortion and smaller size than the host material modifying the rock properties. Here, we study a type of dynamic recrystallisation called subgrain rotation that is widespread in the lithosphere. Moreover, we do so in olivine, a mineral that makes up most of the lithosphere and the upper convective mantle. Understanding this is key for determining how lithospheric rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales. We also record a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. Based on our dataset, we discard an earlier hypothesis on the causes of this change and propose an alternative hypothesis to explain it. [Preprint here](https://eartharxiv.org/repository/view/1973/)
 
-Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _submitted to Tectonophysics_. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
+Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _submitted to Tectonophysics_. [Preprint here](http://arxiv.org/abs/2101.03362)
 
 Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. _Journal of Structural Geology_ **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042   
 
-> **Plain language summary:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [Grab the PDF here if you're interested!](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf).
+> **Plain language summary:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf).
 
 **Yet to come**: _DIC deformation experiments on ice and magnesium alloys_
 
 ### 4.1 Codes released
 
-[Jupyter4DICe](https://github.com/marcoalopez/Jupyter4DICe) :  A series of [Jupyter notebooks](https://jupyter.org/) written in Python for post-processing digital image correlation (DIC) data obtained with the free open-source digital image correlation tool [DICe](https://github.com/dicengine/dice). (not yet finished!)
+[Jupyter4DICe](https://github.com/marcoalopez/Jupyter4DICe):  A series of [Jupyter notebooks](https://jupyter.org/) written in Python for post-processing digital image correlation (DIC) data obtained with the free open-source digital image correlation tool [DICe](https://github.com/dicengine/dice) (under development!)
 
 
 
@@ -120,7 +120,10 @@ Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robu
 #### Datasets
 
 EBSD datasets used in _Lopez-Sanchez et al. (2020) Materials Characterization 165:110382_
-https://data.mendeley.com/datasets/ttvh2m9r9s/draft?a=f35092a2-3a42-4b19-a14a-8c25879e6316
+https://data.mendeley.com/datasets/ttvh2m9r9s/1
+
+EBSD datasets used in _Lopez-Sanchez et al. (2021) Tectonophysics in press_: 228916 
+https://data.mendeley.com/datasets/8dm87k7cm8/1
 
 #### Multimedia
 
