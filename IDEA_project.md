@@ -90,11 +90,12 @@ Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus 
 
 
 
-![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine01.webp)  _Fig. 4. At the top, kernel average misorientation (KAM) map using EBSD of half of one of the deformed peridotite cylinders, note the necking effect to the left due to the extension. KAM is an indicator of crystal lattice distortion due to the presence of dislocations and i. Note how it defines tangles of subgrains and how these are much more developed towards the neck area. At the bottom, detail of a zig-zag subgrain showing data on the misorientation it accommodates (angle and axis) and the types of dislocation of which they are formed. See here for more info https://doi.org/10.1016/j.tecto.2021.228916_
+![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine01.webp)  _Fig. 4. At the top, kernel average misorientation (KAM) map using EBSD of half of one of the deformed peridotite cylinders, note the necking effect towards the left due to the extension. KAM is an indicator of crystal lattice distortion due to the presence of dislocations, yellow colours indicate higher lattice distortions. Note how the zones with high KAM values define tangles of subgrains and how these are much more developed towards the neck area. At the bottom, detail of a zig-zag subgrain showing data on the misorientation it accommodates (angle and axis) and the types of dislocation of which they are formed. For more info see here https://doi.org/10.1016/j.tecto.2021.228916_
 
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine02.webp)
 
-_Fig. 5. Families of dislocation types that make up the different subgrains (precursors of the grain boundaries that will form the new recrystallised grains) in the studied olivine samples._
+_Fig. 5. Families of dislocation types that make up the different subgrains in olivine,  which are the precursors of the grain boundaries that will form the new recrystallised grains, in the studied samples. For more info see here https://doi.org/10.1016/j.tecto.2021.228916_
+
 
 
 ## 4. Publications
@@ -140,6 +141,8 @@ Videos of the experiments available soon
 [In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures](https://www.youtube.com/watch?v=NgSFIaK2GgI) at Ecole de Physique des Houches (_GRD Recrystallization and Grain Growth meeting 2020_)
 
 [Dynamic recrystallization by sub-grain rotation in olivine-rich rocks](https://www.youtube.com/watch?v=fijSePJ3dsA&list) at Ecole de Physique des Houches (_GRD Recrystallization and Grain Growth meeting 2020_)
+
+
 
 ## 5. Outreach and workshops
 
