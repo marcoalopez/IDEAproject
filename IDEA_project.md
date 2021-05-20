@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/14_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/20_
 
 **The IDEA project at a glance**
 
@@ -30,7 +30,7 @@ We conduct extension deformation experiments with in-situ monitoring using the [
 
 
 
-![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/GM_insitu_facilities.jpg?raw=true)  _Figure 1. At left the CamScan X500FE CrystalProbe, an SEM-EBSD system specifically designed for the measurement of crystal orientation while conducting in situ experiments. Note that the column of the microscope is tilted 70 degrees to keep the samples horizontal. Upper right, this is the in house ceramic stage (made by Fabrice Barou) used in the annealing experiments. The image was taken during a heating-cooling test with a sample of magnesium alloy AZ31, note the thermocouples attached to different parts of the device. Lower right, the MT1000 deformation stage with a sample in place._
+![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/GM_insitu_facilities.jpg?raw=true)  _Fig. 1. At left the CamScan X500FE CrystalProbe, an SEM-EBSD system specifically designed for the measurement of crystal orientation while conducting in situ experiments. Note that the column of the microscope is tilted 70 degrees to keep the samples horizontal. Upper right, this is the in house ceramic stage (made by Fabrice Barou) used in the annealing experiments. The image was taken during a heating-cooling test with a sample of magnesium alloy AZ31, note the thermocouples attached to different parts of the device. Lower right, the MT1000 deformation stage with a sample in place._
 
 
 
@@ -40,7 +40,7 @@ During the IDEA project, we carried out several creep experiments on ice using r
 
 
 
-![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)  _Figure 2. **Left**: set-up for the uniaxial compression creep ice test. Upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. Lower left a close view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the heterogeneous plastic deformation. **Left**: That's me in the cold room making an ice sample with the milling machine._
+![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)  _Fig. 2. **Left**: set-up for the uniaxial compression creep ice test. Upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. Lower left a close view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the heterogeneous plastic deformation. **Left**: That's me in the cold room making an ice sample with the milling machine._
 
 
 
@@ -65,37 +65,43 @@ We use three different materials: magnesium alloy AZ31, ice $Ih$, and olivine.
 We use commercial-purity AZ31 magnesium alloy (~96% Mg, ~3% Al, ~1% Zn) for the _in situ_ EBSD experiments as we need a material that easily undergoes dynamic recrystallization under low-_P_ and moderate _T_ conditions operating in an SEM-EBSD chamber. Despite being an alloy, magnesium aggregates have been used as rock analogue [before](https://doi.org/10.1016/0031-9201(85)90131-1) since it shares several features with major rock-forming minerals due to its low crystal symmetry (hexagonal):
 
 - highly anisotropic properties
-- deform plastically by few slip systems (dominant basal slip system)
+- deform plastically by a few slip systems, mainly through the sliding of the basal plane (normal to the crystal _c_-axis)
 - prone to undergo dynamic recrystallization
 
 Furthermore, magnesium alloys have attracted increasing attention in the last two decades due to their low mass density compared to other conventional metallic materials and good mechanical properties, making them candidates for the next generation of light-weight metallic materials. We have used two types of AZ31 alloy samples, small cubes of 10x10x8 mm for the annealing experiments (Fig. 3), and dog-bone specimens for the tensile tests.
 
 
 
-![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/AZ31_example.jpg?raw=true)  _Figure 3. AZ31 magnesium alloy samples used in the IDEA project. Upper left, AZ31 specimens of 10x10x8 mm before and after deformation in a channel-die compression device (i.e. plane strain) used for the annealing experiments. Upper right, dog-bone specimens used for the tensile tests. Lower, crystal preferred orientation (left) and microstructure (right) of the as-received magnesium alloy used for the annealing experiments. Note the intense basal texture with the c-axis maximum above eight multiples of a uniform distribution. The apparent mean grain size is ~9 μm (mode ~5 μm), and most grains had an internal misorientation spread lower than 1%._
+![](https://github.com/marcoalopez/IDEAproject/blob/master/figures/AZ31_example.jpg?raw=true)  _Fig. 3. AZ31 magnesium alloy samples used in the IDEA project. Upper left, AZ31 specimens of 10x10x8 mm before and after deformation in a channel-die compression device (i.e. plane strain) used for the annealing experiments. Upper right, dog-bone specimens used for the tensile tests. Lower, crystal preferred orientation (left) and microstructure (right) of the as-received magnesium alloy used for the annealing experiments. Note the intense basal texture with the c-axis maximum above eight multiples of a uniform distribution. The apparent mean grain size is ~9 μm (mode ~5 μm), and most grains had an internal misorientation spread lower than 1%._
 
 
 
-#### Ice $I_h$
+#### Ice $Ih$
 
-Similar to magnesium, [ice $I_h$](https://en.wikipedia.org/wiki/Ice_Ih) is a hexagonal crystal with strong anisotropic properties, easy basal slip (non-basal slip is about 60 times larger), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $I_h$ is of great interest for the modelling of the flow of glaciers and polar ice sheets but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10x10x1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
+[Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (I-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ is a hexagonal crystal with strong anisotropic properties, easy basal slip (non-basal slip is about 60 times harder), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice sheets but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10x10x1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
 
-Our main goal with the ice creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and how the concentration of local deformation relates to the development of dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
+Our main goal with these creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and how the concentration of local deformation relates to the development of dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
 
 
 #### Olivine
 
-Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus a key mineral to understand lithosphere deformation. In the IDEA project, we perform no olivine deformation experiments but we used all the EBSD data-treatment procedures developed within the frame of the project to reanalyse and reinterpret old datasets coming from unpublished olivine extension deformation experiments. More specifically, we used a dataset that comes from olivine-rich cylinders cored from natural peridotites deformed in extension in a gas-medium apparatus at a confining pressure of 300 _MPa_ and *T* of 1200ºC. Our main goal is to understand how a common type of dynamic recrystallization, called [sub-grain rotation](https://en.wikipedia.org/wiki/Subgrain_rotation_recrystallization), develops in olivine and what effects it has on the CPO and the rheology of peridotites.
+Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus a key mineral to understand lithosphere deformation. In the IDEA project, we perform no olivine deformation experiments but we used all the EBSD data-treatment procedures developed within the frame of the project to reanalyse and reinterpret old datasets coming from unpublished olivine extension deformation experiments. More specifically, we used a dataset that comes from olivine-rich cylinders cored from natural peridotites deformed in extension in a gas-medium apparatus at a confining pressure of 300 _MPa_ and *T* of 1200ºC (Fig. 4). Our main goal is to understand how a common type of dynamic recrystallization, called [sub-grain rotation](https://en.wikipedia.org/wiki/Subgrain_rotation_recrystallization), develops in olivine and what effects it has on the CPO and the rheology of peridotites.
 
-![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine.webp)  _Figure 4. TODO..._
+
+
+![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine01.webp)  _Fig. 4. At the top, kernel average misorientation (KAM) map using EBSD of half of one of the deformed peridotite cylinders, note the necking effect to the left due to the extension. KAM is an indicator of crystal lattice distortion due to the presence of dislocations and i. Note how it defines tangles of subgrains and how these are much more developed towards the neck area. At the bottom, detail of a zig-zag subgrain showing data on the misorientation it accommodates (angle and axis) and the types of dislocation of which they are formed. See here for more info https://doi.org/10.1016/j.tecto.2021.228916_
+
+![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/Olivine02.webp)
+
+_Fig. 5. Families of dislocation types that make up the different subgrains (precursors of the grain boundaries that will form the new recrystallised grains) in the studied olivine samples._
 
 
 ## 4. Publications
 
 Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. _Materials Characterization_ **165**:110382 https://doi.org/10.1016/j.matchar.2020.110382
 
->**Plain language summary**: When heating a polycrystalline material, known as annealing, new grains nucleate and grow in a process called _static recrystallization_. This changes the microstructure and texture of the aggregate modifying its properties (e.g. its mechanical -strength- and seismic properties). Since this is a process that greatly modifies the properties of the material it affects and is very common in the Earth's lithosphere and industry, its study is of wide interest. Despite this, it is not clear which factors other than temperature control the growth process the most, the usual suspects being the disappearance of grain boundary surfaces with unfavourable (high-energy) configurations or the energy stored in the form of dislocations (a crystallographic defect within a crystal structure induced during deformation) in the aggregate. To study this, we deformed several magnesium alloy specimens under different conditions to generate different microstructures and textures. Then, we led a series of _in situ_ EBSD heating experiments at the same temperature to demonstrate that the local accumulation of dislocations is an important factor controlling the growth of new grains in highly deformed polycrystalline materials. We established new microstructural proxies based on EBSD data to demonstrate this effect. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)
+>**Plain language summary**: When heating a polycrystalline material (annealing) new grains nucleate and grow in a process called _static recrystallization_. This changes the microstructure and texture of the aggregate modifying its properties (mechanical and seismic). Annealing is a common process in the Earth's lithosphere and industry and, thus, of wide interest. Despite this, it is not clear which factors other than temperature control the growth process the most, the usual suspects being the disappearance of grain boundary surfaces with unfavourable (high-energy) configurations or the energy stored in the form of dislocations (a crystallographic defect within a crystal structure induced during deformation) in the aggregate. To study this, we deformed several magnesium alloy specimens under different conditions to generate different microstructures and textures. Then, we led a series of _in situ_ EBSD heating experiments at the same temperature to demonstrate that the local accumulation of dislocations is an important factor controlling the growth of new grains in highly deformed polycrystalline materials. We established new microstructural proxies based on EBSD data to demonstrate this effect. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)
 
 Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics, in press_: 228916 https://doi.org/10.1016/j.tecto.2021.228916 
 
