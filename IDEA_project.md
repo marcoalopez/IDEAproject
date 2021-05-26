@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/20_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/26_
 
 **The IDEA project at a glance**
 
@@ -127,10 +127,10 @@ Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robu
 #### Datasets
 
 EBSD datasets used in _Lopez-Sanchez et al. (2020) Materials Characterization 165:110382_
-https://data.mendeley.com/datasets/ttvh2m9r9s/1
+http://dx.doi.org/10.17632/ttvh2m9r9s.1
 
 EBSD datasets used in _Lopez-Sanchez et al. (2021) Tectonophysics in press_: 228916 
-https://data.mendeley.com/datasets/8dm87k7cm8/1
+http://dx.doi.org/10.17632/8dm87k7cm8.1
 
 #### Multimedia
 
