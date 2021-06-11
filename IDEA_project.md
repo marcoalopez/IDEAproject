@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/05/26_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/06/11_
 
 **The IDEA project at a glance**
 
@@ -106,7 +106,7 @@ Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recry
 
 Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics, in press_: 228916 https://doi.org/10.1016/j.tecto.2021.228916 
 
-> **Plain language summary**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with low lattice distortion and smaller size than the host material modifying the rock properties. Here, we study a type of dynamic recrystallisation called subgrain rotation that is widespread in the lithosphere. Moreover, we do so in olivine, a mineral that makes up most of the lithosphere and the upper convective mantle. Understanding this is key for determining how lithospheric rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales. We also record a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. Based on our dataset, we discard an earlier hypothesis on the causes of this change and propose an alternative hypothesis to explain it. [Preprint here](https://eartharxiv.org/repository/view/1973/)
+> **Plain language summary**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with low lattice distortion and smaller size than the host material, ultimately modifying the rock properties. Here, we study a type of dynamic recrystallization called subgrain rotation that is widespread in the lithosphere. Moreover, we do so in olivine, a mineral that makes up most of the lithosphere and the upper mantle. Understanding recrystallization is key for determining how lithospheric rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales. We also record a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. Based on our dataset, we discard an earlier hypothesis on the causes of this change and propose an alternative hypothesis to explain it. [Preprint here](https://eartharxiv.org/repository/view/1973/)
 
 Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _submitted to Tectonophysics_. [Preprint here](http://arxiv.org/abs/2101.03362)
 
@@ -118,7 +118,7 @@ Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robu
 
 ### 4.1 Codes released
 
-[Jupyter4DICe](https://github.com/marcoalopez/Jupyter4DICe):  A series of [Jupyter notebooks](https://jupyter.org/) written in Python for post-processing digital image correlation (DIC) data obtained with the free open-source digital image correlation tool [DICe](https://github.com/dicengine/dice) (under development!)
+[Jupyter4DICe](https://github.com/marcoalopez/Jupyter4DICe):  A series of [Jupyter notebooks](https://jupyter.org/) written in Python for post-processing digital image correlation (DIC) data obtained with the free open-source digital image correlation tool [DICe](https://github.com/dicengine/dice) (**under development!**)
 
 
 
