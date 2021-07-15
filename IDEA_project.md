@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/06/11_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/07/15_
 
 **The IDEA project at a glance**
 
@@ -78,7 +78,7 @@ Furthermore, magnesium alloys have attracted increasing attention in the last tw
 
 #### Ice $Ih$
 
-[Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (I-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ is a hexagonal crystal with strong anisotropic properties, easy basal slip (non-basal slip is about 60 times harder), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice sheets but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10x10x1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
+[Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (I-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ lattice is hexagonal and has strong anisotropic plastic properties, such as easy basal slip (non-basal slip is about 60 times harder), and is prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice sheets but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10x10x1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
 
 Our main goal with these creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and how the concentration of local deformation relates to the development of dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
@@ -108,13 +108,15 @@ Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystalliza
 
 > **Plain language summary**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with low lattice distortion and smaller size than the host material, ultimately modifying the rock properties. Here, we study a type of dynamic recrystallization called subgrain rotation that is widespread in the lithosphere. Moreover, we do so in olivine, a mineral that makes up most of the lithosphere and the upper mantle. Understanding recrystallization is key for determining how lithospheric rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales. We also record a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. Based on our dataset, we discard an earlier hypothesis on the causes of this change and propose an alternative hypothesis to explain it. [Preprint here](https://eartharxiv.org/repository/view/1973/)
 
-Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _submitted to Tectonophysics_. [Preprint here](http://arxiv.org/abs/2101.03362)
+Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics_ Accepted 2021/07/14. [Preprint here](http://arxiv.org/abs/2101.03362)
+
+> **Plain language summary:** TODO
 
 Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. _Journal of Structural Geology_ **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042   
 
 > **Plain language summary:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf).
 
-**Yet to come**: _DIC deformation experiments on ice and magnesium alloys_
+**Yet to come**: _DIC deformation experiments on ice Ih and magnesium AZ31 alloys_
 
 ### 4.1 Codes released
 
