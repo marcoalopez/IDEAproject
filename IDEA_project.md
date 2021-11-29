@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/09/10_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/11/30_
 
 **The IDEA project at a glance**
 
@@ -38,13 +38,11 @@ We conduct extension deformation experiments with in-situ monitoring using the [
 
 During the IDEA project, we carried out several creep experiments on ice using random patterns on its surface to track the evolution of plastic deformation using image correlation methods (Fig. 2). These experiments were carried out at the [Institut des Géosciences de l’Environnement](https://www.ige-grenoble.fr/) in Grenoble in collaboration with Dr. Maurine Montagnat. Samples (see details in the Materials section below) were deformed in unconfined compression using an in-house dead-weight rig at -7 ºC (0.97 $T_m$, where  $T_m$is the melting temperature of $Ih$ ice) under constant uniaxial stress of 0.5 MPa up to 9 % (Fig. 2).
 
-
-
 ![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)  _Fig. 2. **Left**: set-up for the uniaxial compression creep ice test. Upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. Lower left a close view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the heterogeneous plastic deformation. **Left**: That's me in the cold room making an ice sample with the milling machine._
 
 #### What is digital image correlation and why using ice $Ih$ for these experiments?
 
-Digital image correlation (DIC) is an image-based method that uses digital image recording and tracking techniques to make accurate 2D (or 3D) full-field measurements during the deformation of a sample. DIC of random speckle patterns has become one of the most accurate techniques nowadays for quantitative *in situ* displacement and strain full-field analysis at the grain and subgrain scales. However, the application of DIC methods at high homologous temperatures (> 0.9 *Tm*) and/or high plastic strains (>3%) remains challenging. The distribution of strain at high homologous temperatures cannot be yet measured in most materials due to their high melting temperatures, for example of dominant silicates forming the Earth lithosphere or most alloys in engineering. Typical problems at such temperatures include unstable speckle patterns and/or image distortions in optical devices caused by hot air turbulences due to heat radiation. Indeed, DIC methods have been mostly applied in metals at room temperatures. The application of the DIC technique in materials deforming at high homologous temperatures, where materials behave differently from deformation at moderate or low homologous temperatures, is thus a highly desirable goal. The low melting temperature (~0 ºC) of conventional ice ($Ih$) makes it one of the few strongly anisotropic materials that make this possible.
+Digital image correlation (DIC) is an image-based method that uses digital image recording and tracking techniques to make accurate 2D (or 3D) full-field measurements during the deformation of a sample. DIC of random speckle patterns has become one of the most accurate techniques nowadays for quantitative *in situ* displacement and strain full-field analysis at the grain and subgrain scales. However, the application of DIC methods at high homologous temperatures (> 0.9 *Tm*) and/or high plastic strains (>3%) remains challenging. The distribution of strain at high homologous temperatures cannot be yet measured in most materials due to their high melting temperatures, for example of dominant silicates forming the Earth lithosphere or most alloys in engineering. Typical problems at such temperatures include unstable speckle patterns and/or image distortions in optical devices caused by hot air turbulences due to heat radiation. Indeed, DIC methods have been mostly applied in metals at room temperatures. The application of the DIC technique in materials deforming at high homologous temperatures, where materials behave differently from deformation at moderate or low homologous temperatures, is thus a highly desirable goal. The low melting temperature (~0 ºC) of conventional ($Ih$) ice makes it one of the few strongly anisotropic materials that make this possible.
 
 #### Methods & equipment
 
@@ -60,7 +58,7 @@ Digital image correlation (DIC) is an image-based method that uses digital image
 
 ## 3. Materials
 
-We use three different materials: magnesium alloy AZ31, ice $Ih$, and olivine.
+We use three different materials: magnesium alloy AZ31, ice, and olivine.
 
 #### Magnesium
 
@@ -80,7 +78,7 @@ Furthermore, magnesium alloys have attracted increasing attention in the last tw
 
 #### Ice $Ih$
 
-[Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (I-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ lattice is hexagonal and has strong anisotropic plastic properties, such as easy basal slip (non-basal slip is about 60 times harder), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice sheets but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10x10x1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
+[Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (1-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ lattice is hexagonal and has strong anisotropic plastic properties, such as easy basal slip (non-basal slip is about 20 to 70 times harder to activate), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice caps but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10×10×1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
 
 Our main goal with these creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and which are the links between strain localization and the development of intracrystalline distortion and dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
@@ -110,7 +108,7 @@ Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystalliza
 
 *Supplementary material (Matlab codes)*: https://doi.org/10.6084/m9.figshare.16569396.v1 (for full datasets see section 4.2)
 
-> **Relevance**: Dynamic recrystallization involves the creation or migration of grain boundaries during plastic deformation to form new grains with low lattice distortion and smaller size than the host material, modifying the rock properties. Here, we study a type of dynamic recrystallization called subgrain rotation that is widespread in the lithosphere. Moreover, we do so in olivine, a mineral that makes up most of the lithosphere and the upper mantle. Understanding recrystallization is key for determining how lithospheric rocks respond to deformation from the microscale up to very large scales (hundreds of km). Using advanced electron backscatter diffraction methods on several samples deformed in the laboratory at high temperatures (1200ºC) and pressures (300 MPa), we described how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales. We also record a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. Based on our dataset, we discard an earlier hypothesis on the causes of this change and propose an alternative hypothesis to explain it. [Preprint here](https://eartharxiv.org/repository/view/1973/)
+> **Relevance**: We study a widespread (in the lithosphere) dynamic recrystallization process called subgrain rotation in olivine, the most common mineral in the lithosphere. Using high-resolution EBSD, we were able to describe how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales and found a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. We discuss the possible causes of this change and propose a hypothesis to explain it. [Preprint here](https://eartharxiv.org/repository/view/1973/)
 
 Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics_ **815**: 228916 https://doi.org/10.1016/j.tecto.2021.228916 [Preprint here](http://arxiv.org/abs/2101.03362)
 
@@ -118,7 +116,7 @@ Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Defor
 
 Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. _Journal of Structural Geology_ **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042   
 
-> **Relevance:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf).
+> **Relevance:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)
 
 **Yet to come**: _DIC deformation experiments on ice Ih_
 
