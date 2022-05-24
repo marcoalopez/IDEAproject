@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2021/11/30_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022-05-24_
 
 **The IDEA project at a glance**
 
@@ -26,7 +26,7 @@ Here, we are particularly interested in the study of **recrystallization (RX) pr
 
 ### 2.1 _In situ_ deformation experiments using Electron Backscatter Diffraction
 
-We conduct extension deformation experiments with in-situ monitoring using the [CamScan X500FE CrystalProbe EBSD-SEM](http://www.gm.univ-montp2.fr/spip.php?article648&lang=en) at Géosciences Montpellier, an electron microscopy with an Electron Backscatter Diffraction (EBSD) system specifically designed to host such experiments (Fig. 1). The vacuum chamber of this SEM-EBSD is designed to hold different types of devices. In our case, an in-house ceramic stage for the heating experiments and a [MT1000](https://newtec.fr/en/mt-1000/) tensile deformation stage provided by NewTec Scientific for the extension deformation experiments.
+We conduct extension deformation experiments with in-situ monitoring using the [CamScan X500FE CrystalProbe EBSD-SEM](http://www.gm.univ-montp2.fr/spip.php?article648&lang=en) at Géosciences Montpellier, an electron microscopy with an Electron Backscatter Diffraction (EBSD) system specifically designed to host such experiments (Fig. 1). The vacuum chamber of this SEM-EBSD is designed to hold different types of devices. In our case, an in-house ceramic stage for the heating experiments and a [MT1000](https://newtec.fr/en/mt-1000/) tensile deformation stage provided by NewTec Scientific for the deformation experiments.
 
 
 
@@ -78,7 +78,7 @@ Furthermore, magnesium alloys have attracted increasing attention in the last tw
 
 #### Ice $Ih$
 
-[Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (1-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ lattice is hexagonal and has strong anisotropic plastic properties, such as easy basal slip (non-basal slip is about 20 to 70 times harder to activate), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice caps but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10×10×1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
+[Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (1-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ lattice is hexagonal and has strong anisotropic plastic properties, such as easy basal slip (non-basal slip is about 60 times harder to activate), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice caps but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10×10×1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
 
 Our main goal with these creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and which are the links between strain localization and the development of intracrystalline distortion and dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
@@ -108,7 +108,7 @@ Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystalliza
 
 *Supplementary material (Matlab codes)*: https://doi.org/10.6084/m9.figshare.16569396.v1 (for full datasets see section 4.2)
 
-> **Relevance**: We study a widespread (in the lithosphere) dynamic recrystallization process called subgrain rotation in olivine, the most common mineral in the lithosphere. Using high-resolution EBSD, we were able to describe how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales and found a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. We discuss the possible causes of this change and propose a hypothesis to explain it. [Preprint here](https://eartharxiv.org/repository/view/1973/)
+> **Relevance**: We study a widespread (in the lithosphere) dynamic recrystallization process called subgrain rotation in olivine, the most common mineral in the lithosphere. Using high-resolution EBSD, we were able to describe how and where the so-called “subgrain cells” (the precursor of the new recrystallized grains) form at micrometric scales and found a sharp change in the properties of these "subgrain boundaries" once they become grain boundaries. We discuss the possible causes of this change and propose a hypothesis to explain it. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2021_TECTO228916_Lopez-Sanchez.pdf)
 
 Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics_ **815**: 228916 https://doi.org/10.1016/j.tecto.2021.228916 [Preprint here](http://arxiv.org/abs/2101.03362)
 
@@ -118,7 +118,7 @@ Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robu
 
 > **Relevance:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)
 
-**Yet to come**: _DIC deformation experiments on ice Ih_
+Lopez-Sanchez MA, Chauve T, Montagnat M, Tommasi A. Strain localisation and microstructure evolution in polycrystalline ice by in-situ strain field measurements. [Pre-print at *EarthArXiv*](https://doi.org/10.31223/X5291H) In review in *Earth and Planetary Science Letters*.
 
 ### 4.1 Codes released
 
@@ -158,7 +158,7 @@ Workshop “**EBSD data treatment with MTEX**” at _GRD Recrystallization and G
 
 ---
 
-Copyright © 2018-2021 Marco A. Lopez-Sanchez  
+Copyright © 2018-2022 Marco A. Lopez-Sanchez  
 
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
