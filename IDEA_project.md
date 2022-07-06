@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022-05-24_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022-07-06_
 
 **The IDEA project at a glance**
 
-_The IDEA project stands for **I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials. This is a research project attached to a [Marie Skłodowska-Curie “Clarín”-COFUND Action](http://www.clarinasturias.es/?lang=en) postdoctoral fellowship starting in 2018 and funded by different sources including European and French research projects. The main goal of the project is to rationalize the physical processes that occur at the microscale during crystal-plastic deformation and heating. Specifically, we are interested in how recrystallization (dynamic and static) evolves and affect the properties of polycrystalline materials such as strain hardening/weakening, the crystal preferred orientation (CPO) and strain localization. Our approach involves tracking the evolution of microstructure, CPO, and strain field during recrystallization using in situ observations. We use two main techniques: electron backscatter diffraction (EBSD) and digital image correlation (DIC). The core team is based at Géosciences Montpellier (Université de Montpellier - CNRS) in France and consist of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) (supervisor), [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) (the recipient of the Clarín-COFUND fellowship), and Fabrice Barou (Geosciences Montpellier). We also collaborate with [David Mainprice](http://www.gm.univ-montp2.fr/PERSO/mainprice/) (GM Montpellier), [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/) (IGE - Grenoble) and Romain Quey (Mines Saint-Etienne)._
+_The IDEA project stands for **I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials. This is a research project attached to a [Marie Skłodowska-Curie “Clarín”-COFUND Action](http://www.ficyt.es/pcti/detalleconvplan.asp?conexion=Clarin2017) postdoctoral fellowship starting in 2018 and funded by different sources including European and French research projects. The main goal of the project is to rationalize the physical processes that occur at the microscale during crystal-plastic deformation and heating. Specifically, we are interested in how recrystallization (dynamic and static) evolves and affect the properties of polycrystalline materials such as strain hardening/weakening, the crystal preferred orientation (CPO) and strain localization. Our approach involves tracking the evolution of microstructure, CPO, and strain field during recrystallization using in situ observations. We use two main techniques: electron backscatter diffraction (EBSD) and digital image correlation (DIC). The core team is based at Géosciences Montpellier (Université de Montpellier - CNRS) in France and consist of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) (supervisor), [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) (the recipient of the Clarín-COFUND fellowship), and Fabrice Barou (Geosciences Montpellier). We also collaborate with [David Mainprice](http://www.gm.univ-montp2.fr/PERSO/mainprice/) (GM Montpellier), [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/) (IGE - Grenoble) and Romain Quey (Mines Saint-Etienne)._
 
 [TOC]
 
@@ -46,15 +46,11 @@ Digital image correlation (DIC) is an image-based method that uses digital image
 
 #### Methods & equipment
 
-**Hardware**: For the digital image acquisition, we used a Nikon D850 digital camera with a 45.7 Mp CMOS sensor (size of 35.9 x 23.9 mm  with pixel area of 18.84 μm^2^) and a high-performance low-distortion Tamron SP Macro 1:1 lens (focal length of 180 mm, maximum aperture of f/3.5). Digital images were taken with the following setting: manually focused with an aperture of f/11 (~16.4 mm for a 180 mm) and an ISO sensitivity of 64 generating time exposures of ~1/10 s at the cold room light conditions; the light source used was two neon lamps with light diffusers (Fig. 3). Images were saved as Nikon RAW (.NEF) files with a 12-bit depth.
+**Hardware**: For the digital image acquisition, we used a Nikon D850 digital camera with a 45.7 Mp CMOS sensor (size of 35.9 x 23.9 mm  with pixel area of 18.84 μm^2^) and a high-performance low-distortion Tamron SP Macro 1:1 lens (focal length of 180 mm, maximum aperture of f/3.5).
 
-**Image sequence**: We took 30 images before starting the deformation experiment and then every 10 minutes with the lens vibration reduction mode enabled during the creep experiment (see Figure 2 for general set-up).
+**Image sequence**: We took 30 images before starting the deformation experiment and then every 10 minutes during ice creep (see Figure 2 for general set-up). Creep experiments last between one and two days.
 
-**RAW image data treatment**: Images were converted from NEF (RAW) to TIFF using the dcraw v9.27 photo decoder and in-house Python codes using the ac hoc camera white balance and the Adaptive Homogeneity-Directed (AHD) interpolation for [demosaicing](https://en.wikipedia.org/wiki/Demosaicing) the images. After this, images were cropped (to the region of interest) and converted from RGB to 8-bit TIFF grayscale format using the Python Image Library (Pillow).
-
-**Digital image correlation (DIC)**: We used the free and open-source [Digital Image Correlation Engine (DICe)](https://github.com/dicengine/dice) from [Sandia National Laboratories](https://www.sandia.gov/) to compute the full-field displacements and strains from sequences of digital images.
-
-**DIC data-treatment**: All data obtained by the DICe tool was treated and plotted using in-house Python codes that will be released at the time of publication as free and open-source Jupyter Notebooks. See examples at https://github.com/marcoalopez/Jupyter4DICe
+**Digital image correlation (DIC)**: We used the free and open-source [Digital Image Correlation Engine (DICe)](https://github.com/dicengine/dice) from [Sandia National Laboratories](https://www.sandia.gov/) to compute the full-field displacements and strains from sequences of digital images. The data obtained by the DICe tool was treated and plotted using in-house Python codes released as free and open-source Jupyter Notebooks. See examples at https://github.com/marcoalopez/Jupyter4DICe
 
 ## 3. Materials
 
@@ -80,9 +76,9 @@ Furthermore, magnesium alloys have attracted increasing attention in the last tw
 
 [Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (1-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ lattice is hexagonal and has strong anisotropic plastic properties, such as easy basal slip (non-basal slip is about 60 times harder to activate), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice caps but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10×10×1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
 
-Our main goal with these creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and which are the links between strain localization and the development of intracrystalline distortion and dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
+Our main goal with these creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and which are the links between the strain field and the development of intracrystalline distortion and dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
-
+See a talk on this issue here: https://youtu.be/R5Vm63oqLGk
 
 #### Olivine
 
@@ -112,7 +108,7 @@ Lopez-Sanchez MA, Tommasi A, Ben Ismail W, Barou F. (2021) Dynamic recrystalliza
 
 Ben Ismail W, Tommasi A, Lopez-Sanchez MA, Barou F, Rutter EH, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics_ **815**: 228916 https://doi.org/10.1016/j.tecto.2021.228916 [Preprint here](http://arxiv.org/abs/2101.03362)
 
-> **Relevance:** We deformed a set of natural upper mantle rocks in a HT-HP deformation device up to 50% in axial extension. We show that grain size variations representative of those observed in natural peridotites can lead to significantly different microstructure evolutions and mechanical behaviours (softening vs. hardening) and propose a hypothesis as to why this occurs
+> **Relevance:** We deformed a set of natural upper mantle rocks in a HT-HP deformation device up to 50% in axial extension. We show that grain size variations representative of those observed in natural peridotites can lead to significantly different microstructure evolutions and mechanical behaviours (softening vs. hardening) and propose a hypothesis as to why this occurs.
 
 Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. _Journal of Structural Geology_ **135**:104042 https://doi.org/10.1016/j.jsg.2020.104042   
 
@@ -141,6 +137,8 @@ http://dx.doi.org/10.17632/8dm87k7cm8.1
 Videos of the experiments available soon
 
 #### Links to talks
+
+[Evolution of strain field and microstructure in polycrystalline ice using in situ experiments](https://youtu.be/R5Vm63oqLGk). Youtube video based on the talks given by Marco A. Lopez-Sanchez years at various international meetings and workshops; e.g. [6th International Workshop on Rock Physics](https://lameroc.eu/), GDR workshop 2021, RhEoVOLUTION workshop 2022.
 
 [In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures](https://www.youtube.com/watch?v=NgSFIaK2GgI) at Ecole de Physique des Houches (_GRD Recrystallization and Grain Growth meeting 2020_)
 
