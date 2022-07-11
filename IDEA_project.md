@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022-07-06_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022-07-11_
 
 **The IDEA project at a glance**
 
@@ -78,11 +78,13 @@ Furthermore, magnesium alloys have attracted increasing attention in the last tw
 
 Our main goal with these creep experiments is to understand how strain localise and/or delocalised at grain scale, how this phenomenon is affected by local grain interactions, and which are the links between the strain field and the development of intracrystalline distortion and dynamic recrystallization. These issues have implications for the modelling of the deformed state of polycrystalline materials at the microstructural scale using continuum mechanics.
 
-See a talk on this issue here: https://youtu.be/R5Vm63oqLGk
+See a lecture on this issue here: https://youtu.be/R5Vm63oqLGk
 
 #### Olivine
 
 Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus a key mineral to understand lithosphere deformation. In the IDEA project, we perform no olivine deformation experiments but we used all the EBSD data-treatment procedures developed within the frame of the project to reanalyse and reinterpret old datasets coming from unpublished olivine extension deformation experiments. More specifically, we used a dataset that comes from olivine-rich cylinders cored from natural peridotites deformed in extension in a gas-medium apparatus at a confining pressure of 300 _MPa_ and *T* of 1200ºC (Fig. 4). Our main goal is to understand how a common type of dynamic recrystallization, called [sub-grain rotation](https://en.wikipedia.org/wiki/Subgrain_rotation_recrystallization), develops in olivine and what effects it has on the CPO and the rheology of peridotites.
+
+See a lecture on this issue here: https://youtu.be/vs6-znNYAMM
 
 
 
@@ -137,6 +139,8 @@ http://dx.doi.org/10.17632/8dm87k7cm8.1
 Videos of the experiments available soon
 
 #### Links to talks
+
+[Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD](https://youtu.be/vs6-znNYAMM). Youtube video based on the talks given by Marco A. Lopez-Sanchez in the MTEX workshop 2022 and the EBSD2022 Topical Conference of the Microanalysis Society.
 
 [Evolution of strain field and microstructure in polycrystalline ice using in situ experiments](https://youtu.be/R5Vm63oqLGk). Youtube video based on the talks given by Marco A. Lopez-Sanchez years at various international meetings and workshops; e.g. [6th International Workshop on Rock Physics](https://lameroc.eu/), GDR workshop 2021, RhEoVOLUTION workshop 2022.
 
