@@ -38,7 +38,7 @@ We conduct extension deformation experiments with in-situ monitoring using the [
 
 During the IDEA project, we carried out several creep experiments on ice using random patterns on its surface to track the evolution of plastic deformation using image correlation methods (Fig. 2). These experiments were carried out at the [Institut des Géosciences de l’Environnement](https://www.ige-grenoble.fr/) in Grenoble in collaboration with Dr. Maurine Montagnat. Samples (see details in the Materials section below) were deformed in unconfined compression using an in-house dead-weight rig at -7 ºC (0.97 $T_m$, where  $T_m$is the melting temperature of $Ih$ ice) under constant uniaxial stress of 0.5 MPa up to 9 % (Fig. 2).
 
-![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)  _Fig. 2. **Left**: set-up for the uniaxial compression creep ice test. Upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. Lower left a close view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the heterogeneous plastic deformation. **Left**: That's me in the cold room making an ice sample with the milling machine._
+![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)  _Fig. 2. **Left**: set-up for the uniaxial compression creep ice test. Upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. Lower left a close view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the heterogeneous plastic deformation. **Right**: That's me in the cold room making an ice sample with the milling machine._
 
 ### What is digital image correlation and why using ice $Ih$ for these experiments?
 
@@ -98,7 +98,7 @@ _Fig. 5. Families of dislocation types that make up the different subgrains in o
 
 ## 4. Publications
 
-Lopez-Sanchez MA, Chauve T, Montagnat M, Tommasi A. (2024) Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. *Earth and Planetary Science Letters* **611**: 118149. https://doi.org/10.1016/j.epsl.2023.118149  
+Lopez-Sanchez MA, Chauve T, Montagnat M, Tommasi A. (2023) Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. *Earth and Planetary Science Letters* **611**: 118149. https://doi.org/10.1016/j.epsl.2023.118149  
 
 _Supplementary material:_ https://www.sciencedirect.com/science/article/pii/S0012821X23001620?via%3Dihub#se0160 
 
