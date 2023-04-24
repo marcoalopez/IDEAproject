@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2024-04-24_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022-07-11_
 
 **The IDEA project at a glance**
 
@@ -98,10 +98,6 @@ _Fig. 5. Families of dislocation types that make up the different subgrains in o
 
 ## 4. Publications
 
-- **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. (2024) Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. *Earth and Planetary Science Letters* **611**: 118149. https://doi.org/10.1016/j.epsl.2023.118149  
-
-> **Relevance**: We explore the links between strain localisation and microstructure evolution in polycrystal ice samples deformed in the dislocation creep regime using digital image correlation (DIC) techniques. By comparing the evolution of the strain field and the microstructure we prove that grains can accommodate large strains with little or no local accumulation of dislocations depending on the active slip system, i.e. the grain changes its shape without generating large intracrystalline distortions. This observation, extensible to other plastically anisotropic minerals such as quartz or olivine, implies that (1) intracrystalline distortion is not a reliable indicator of the accumulated strain at grain scale or smaller and that (2) the proportion of different dislocation types in the subgrains does not gauge their relative contribution to deformation. The latter allowed us to solve why the high presence of non-basal dislocations in ice subgrains, hitherto considered paradoxical, since our data indicate that this paradox is apparent. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_EPLS118149_Lopez-Sanchez.pdf)
-
 Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. _Materials Characterization_ **165**:110382 https://doi.org/10.1016/j.matchar.2020.110382
 
 >**Relevance**: When heating a polycrystalline material (annealing) new grains nucleate and grow in a process called _static recrystallization_. This changes the microstructure and texture of the aggregate modifying its properties (mechanical and seismic). Annealing is a common process in the Earth's lithosphere and industry and, thus, of wide interest. Despite this, it is not clear which factors other than temperature control the growth process the most, the usual suspects being the disappearance of grain boundary surfaces with unfavourable (high-energy) configurations or the energy stored in the form of dislocations (a crystallographic defect within a crystal structure induced during deformation) in the aggregate. To study this, we deformed several magnesium alloy specimens under different conditions to generate different microstructures and textures. Then, we led a series of _in situ_ EBSD heating experiments at the same temperature to demonstrate that the local accumulation of dislocations is an important factor controlling the growth of new grains in highly deformed polycrystalline materials. We established new microstructural proxies based on EBSD data to demonstrate this effect. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)
@@ -120,6 +116,7 @@ Lopez-Sanchez MA (2020) Which average, how many grains, and how to estimate robu
 
 > **Relevance:** The average grain size and the grain size populations are some of the most used features to study the microstructure of rocks and in particular recrystallization. This paper provides guidelines for determining average grain sizes and confidence intervals from grain size populations. Using computer simulations and resampling techniques, we found that the geometric mean and the confidence intervals for the geometric mean provide the best balance between efficiency and robustness (being the median the best alternative) in recrystallized grain size populations. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)
 
+Lopez-Sanchez MA, Chauve T, Montagnat M, Tommasi A. Strain localisation and microstructure evolution in polycrystalline ice by in-situ strain field measurements. [Pre-print at *EarthArXiv*](https://doi.org/10.31223/X5291H) In review in *Earth and Planetary Science Letters*.
 
 ### 4.1 Codes released
 
@@ -163,7 +160,7 @@ Workshop “**EBSD data treatment with MTEX**” at _GRD Recrystallization and G
 
 ---
 
-Copyright © 2018-2024 Marco A. Lopez-Sanchez  
+Copyright © 2018-2022 Marco A. Lopez-Sanchez  
 
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
