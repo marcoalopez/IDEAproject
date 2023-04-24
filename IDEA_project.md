@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2022-07-11_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-04-24_
 
 **The IDEA project at a glance**
 
@@ -40,11 +40,11 @@ During the IDEA project, we carried out several creep experiments on ice using r
 
 ![Ice experiments](https://github.com/marcoalopez/IDEAproject/blob/master/figures/IceExp_Grenoble.jpg?raw=true)  _Fig. 2. **Left**: set-up for the uniaxial compression creep ice test. Upper left, the full set-up with the creep rig in the background, and the camera equipment for the digital image correlation in the foreground. Lower left a close view of the ice sample within the creep rig. Note the random speckle on the surface of the sample to track displacements. **Center**: Thin sections using polarised light before (top) and after (bottom) the creep experiment (in this case a failed one). Note the recrystallisation at the grain boundaries and the heterogeneous plastic deformation. **Left**: That's me in the cold room making an ice sample with the milling machine._
 
-#### What is digital image correlation and why using ice $Ih$ for these experiments?
+### What is digital image correlation and why using ice $Ih$ for these experiments?
 
 Digital image correlation (DIC) is an image-based method that uses digital image recording and tracking techniques to make accurate 2D (or 3D) full-field measurements during the deformation of a sample. DIC of random speckle patterns has become one of the most accurate techniques nowadays for quantitative *in situ* displacement and strain full-field analysis at the grain and subgrain scales. However, the application of DIC methods at high homologous temperatures (> 0.9 *Tm*) and/or high plastic strains (>3%) remains challenging. The distribution of strain at high homologous temperatures cannot be yet measured in most materials due to their high melting temperatures, for example of dominant silicates forming the Earth lithosphere or most alloys in engineering. Typical problems at such temperatures include unstable speckle patterns and/or image distortions in optical devices caused by hot air turbulences due to heat radiation. Indeed, DIC methods have been mostly applied in metals at room temperatures. The application of the DIC technique in materials deforming at high homologous temperatures, where materials behave differently from deformation at moderate or low homologous temperatures, is thus a highly desirable goal. The low melting temperature (~0 ºC) of conventional ($Ih$) ice makes it one of the few strongly anisotropic materials that make this possible.
 
-#### Methods & equipment
+### Methods & equipment
 
 **Hardware**: For the digital image acquisition, we used a Nikon D850 digital camera with a 45.7 Mp CMOS sensor (size of 35.9 x 23.9 mm  with pixel area of 18.84 μm^2^) and a high-performance low-distortion Tamron SP Macro 1:1 lens (focal length of 180 mm, maximum aperture of f/3.5).
 
@@ -56,7 +56,7 @@ Digital image correlation (DIC) is an image-based method that uses digital image
 
 We use three different materials: magnesium alloy AZ31, ice, and olivine.
 
-#### Magnesium
+### Magnesium
 
 We use commercial-purity AZ31 magnesium alloy (~96% Mg, ~3% Al, ~1% Zn) for the _in situ_ EBSD experiments as we need a material that easily undergoes dynamic recrystallization under low-_P_ and moderate _T_ conditions operating in an SEM-EBSD chamber. Despite being an alloy, magnesium aggregates have been used as rock analogue [before](https://doi.org/10.1016/0031-9201(85)90131-1) since it shares several features with major rock-forming minerals due to its low crystal symmetry (hexagonal):
 
@@ -72,7 +72,7 @@ Furthermore, magnesium alloys have attracted increasing attention in the last tw
 
 
 
-#### Ice $Ih$
+### Ice $Ih$
 
 [Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (1-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ lattice is hexagonal and has strong anisotropic plastic properties, such as easy basal slip (non-basal slip is about 60 times harder to activate), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice caps but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10×10×1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
 
@@ -80,7 +80,7 @@ Our main goal with these creep experiments is to understand how strain localise 
 
 See a lecture on this issue here: https://youtu.be/R5Vm63oqLGk
 
-#### Olivine
+### Olivine
 
 Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus a key mineral to understand lithosphere deformation. In the IDEA project, we perform no olivine deformation experiments but we used all the EBSD data-treatment procedures developed within the frame of the project to reanalyse and reinterpret old datasets coming from unpublished olivine extension deformation experiments. More specifically, we used a dataset that comes from olivine-rich cylinders cored from natural peridotites deformed in extension in a gas-medium apparatus at a confining pressure of 300 _MPa_ and *T* of 1200ºC (Fig. 4). Our main goal is to understand how a common type of dynamic recrystallization, called [sub-grain rotation](https://en.wikipedia.org/wiki/Subgrain_rotation_recrystallization), develops in olivine and what effects it has on the CPO and the rheology of peridotites.
 
@@ -97,6 +97,12 @@ _Fig. 5. Families of dislocation types that make up the different subgrains in o
 
 
 ## 4. Publications
+
+Lopez-Sanchez MA, Chauve T, Montagnat M, Tommasi A. (2024) Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. *Earth and Planetary Science Letters* **611**: 118149. https://doi.org/10.1016/j.epsl.2023.118149  
+
+_Supplementary material:_ https://www.sciencedirect.com/science/article/pii/S0012821X23001620?via%3Dihub#se0160 
+
+> **Relevance**: We explore the links between strain localisation and microstructure evolution in polycrystal ice samples deformed in the dislocation creep regime using digital image correlation (DIC) techniques. By comparing the evolution of the strain field and the microstructure we prove that grains can accommodate large strains with little or no local accumulation of dislocations depending on the active slip system, i.e. the grain changes its shape without generating large intracrystalline distortions. This observation, extensible to other plastically anisotropic minerals such as quartz or olivine, implies that (1) intracrystalline distortion is not a reliable indicator of the accumulated strain at grain scale or smaller and that (2) the proportion of different dislocation types in the subgrains does not gauge their relative contribution to deformation. The latter allowed us to solve why the high presence of non-basal dislocations in ice subgrains, hitherto considered paradoxical, since our data indicate that this paradox is apparent. [PDF here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_EPLS118149_Lopez-Sanchez.pdf)
 
 Lopez-Sanchez MA, Tommasi A, Barou F, and Quey R (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. _Materials Characterization_ **165**:110382 https://doi.org/10.1016/j.matchar.2020.110382
 
@@ -126,7 +132,7 @@ Lopez-Sanchez MA, Chauve T, Montagnat M, Tommasi A. Strain localisation and micr
 
 ### 4.2 Datasets & multimedia content
 
-#### Datasets
+### Datasets
 
 EBSD datasets used in _Lopez-Sanchez et al. (2020) Materials Characterization 165:110382_
 http://dx.doi.org/10.17632/ttvh2m9r9s.1
@@ -134,11 +140,11 @@ http://dx.doi.org/10.17632/ttvh2m9r9s.1
 EBSD datasets used in _Lopez-Sanchez et al. (2021) Tectonophysics in press_: 228916 
 http://dx.doi.org/10.17632/8dm87k7cm8.1
 
-#### Multimedia
+### Multimedia
 
 Videos of the experiments available soon
 
-#### Links to talks
+### Links to talks
 
 [Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD](https://youtu.be/vs6-znNYAMM). Youtube video based on the talks given by Marco A. Lopez-Sanchez in the MTEX workshop 2022 and the EBSD2022 Topical Conference of the Microanalysis Society.
 
@@ -160,7 +166,7 @@ Workshop “**EBSD data treatment with MTEX**” at _GRD Recrystallization and G
 
 ---
 
-Copyright © 2018-2022 Marco A. Lopez-Sanchez  
+Copyright © 2018-2023 Marco A. Lopez-Sanchez  
 
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
