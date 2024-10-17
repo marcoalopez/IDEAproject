@@ -56,7 +56,7 @@ Digital image correlation (DIC) is an image-based method that uses digital image
 
 We use three different materials: magnesium alloy AZ31, ice, and olivine.
 
-### Magnesium
+### 3.1 Magnesium
 
 We use commercial-purity AZ31 magnesium alloy (~96% Mg, ~3% Al, ~1% Zn) for the _in situ_ EBSD experiments as we need a material that easily undergoes dynamic recrystallization under low-_P_ and moderate _T_ conditions operating in an SEM-EBSD chamber. Despite being an alloy, magnesium aggregates have been used as rock analogue [before](https://doi.org/10.1016/0031-9201(85)90131-1) since it shares several features with major rock-forming minerals due to its low crystal symmetry (hexagonal):
 
@@ -72,7 +72,7 @@ Furthermore, magnesium alloys have attracted increasing attention in the last tw
 
 
 
-### Ice $Ih$
+### 3.2 Ice $Ih$
 
 [Ice $Ih$](https://en.wikipedia.org/wiki/Ice_Ih) (1-hexagonal) refers to the ordinary ice that forms on the Earth's surface and gives rise to the eye-catching shapes of snowflakes. Similar to magnesium, Ice $Ih$ lattice is hexagonal and has strong anisotropic plastic properties, such as easy basal slip (non-basal slip is about 60 times harder to activate), and prone to undergo dynamic recrystallization. Knowledge of the rheological properties of ice $Ih$ is of great interest for the modelling of the flow of glaciers and polar ice caps but also for the understanding of the mechanical behaviour of materials deformed at temperatures close to the material melting point (i.e. as a model material). In our experiments, we used rectangular samples of 10×10×1.5 cm side of polycrystalline columnar ice (i.e. formed of parallel columnar grains with c-axis close to the observation surface) with speckle random patterns on the sample surface (Fig. 2). 
 
@@ -80,7 +80,7 @@ Our main goal with these creep experiments is to understand how strain localise 
 
 See a lecture on this issue here: https://youtu.be/R5Vm63oqLGk
 
-### Olivine
+### 3.3 Olivine
 
 Olivine is the main mineral phase in the lithospheric Earth’s mantle and thus a key mineral to understand lithosphere deformation. In the IDEA project, we perform no olivine deformation experiments but we used all the EBSD data-treatment procedures developed within the frame of the project to reanalyse and reinterpret old datasets coming from unpublished olivine extension deformation experiments. More specifically, we used a dataset that comes from olivine-rich cylinders cored from natural peridotites deformed in extension in a gas-medium apparatus at a confining pressure of 300 _MPa_ and *T* of 1200ºC (Fig. 4). Our main goal is to understand how a common type of dynamic recrystallization, called [sub-grain rotation](https://en.wikipedia.org/wiki/Subgrain_rotation_recrystallization), develops in olivine and what effects it has on the CPO and the rheology of peridotites.
 
@@ -132,7 +132,7 @@ Lopez-Sanchez MA, Chauve T, Montagnat M, Tommasi A. Strain localisation and micr
 
 ### 4.2 Datasets & multimedia content
 
-### Datasets
+#### Datasets
 
 EBSD datasets used in _Lopez-Sanchez et al. (2020) Materials Characterization 165:110382_
 http://dx.doi.org/10.17632/ttvh2m9r9s.1
@@ -140,11 +140,11 @@ http://dx.doi.org/10.17632/ttvh2m9r9s.1
 EBSD datasets used in _Lopez-Sanchez et al. (2021) Tectonophysics in press_: 228916 
 http://dx.doi.org/10.17632/8dm87k7cm8.1
 
-### Multimedia
+#### Multimedia
 
 Videos of the experiments available soon
 
-### Links to talks
+#### Links to talks
 
 [Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD](https://youtu.be/vs6-znNYAMM). Youtube video based on the talks given by Marco A. Lopez-Sanchez in the MTEX workshop 2022 and the EBSD2022 Topical Conference of the Microanalysis Society.
 
@@ -166,7 +166,7 @@ Workshop “**EBSD data treatment with MTEX**” at _GRD Recrystallization and G
 
 ---
 
-Copyright © 2018-2023 Marco A. Lopez-Sanchez  
+Copyright © 2018-today Marco A. Lopez-Sanchez  
 
 _Information presented on this website is provided without any express or implied warranty and may include technical inaccuracies or typing errors; the author reserve the right to modify or enhance the content of this website at any time without previous notice. This webpage is not liable for the content of external links._  
 
