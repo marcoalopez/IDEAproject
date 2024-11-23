@@ -142,13 +142,7 @@ http://dx.doi.org/10.17632/8dm87k7cm8.1
 
 #### Multimedia
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=R5Vm63oqLGk">
-</iframe>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=vs6-znNYAMM">
-</iframe>
 
 #### Links to talks
 
