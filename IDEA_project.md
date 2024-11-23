@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/marcoalopez/IDEAproject/master/figures/header.jpg)
 
-_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2023-04-24_
+_Website by [Marco A. Lopez-Sanchez](https://marcoalopez.github.io/) - Last update: 2024-11-23_
 
 **The IDEA project at a glance**
 
@@ -142,7 +142,13 @@ http://dx.doi.org/10.17632/8dm87k7cm8.1
 
 #### Multimedia
 
-Videos of the experiments available soon
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=R5Vm63oqLGk">
+</iframe>
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=vs6-znNYAMM">
+</iframe>
 
 #### Links to talks
 
